@@ -1,0 +1,17 @@
+# MATLAB & Simulink temporary / cache files
+*.asv
+*.autosave
+*.slxc
+slprj/
+*.mex*
+*.mat~
+
+# Test & Debug execution logs
+*.log
+test_simulink_script.m
+quick_test.m
+
+# OS artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
